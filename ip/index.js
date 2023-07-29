@@ -82,4 +82,9 @@ const htmlCard = `	<div class="card">
 </div>
 </div>`;
 
-cardsContainer.innerHTML = htmlCard;
+async function getLocationInfos(ipAdd) {
+  await setTimeout(() => {
+    cardsContainer.innerHTML = htmlCard;
+  }, 2000);
+}
+getLocationInfos();
