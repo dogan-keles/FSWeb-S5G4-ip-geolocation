@@ -1,0 +1,19 @@
+{
+  "sorgu": "88.229.104.38",
+  "durum": "OK",
+  "kıta": "Asia",
+  "ülke": "Turkey",
+  "ülkeKodu": "TR",
+  "ülkebayrağı": "https://apis.ergineer.com/ulkebayraklari/TR",
+  "bölge": "34",
+  "bölgeAdı": "Istanbul",
+  "şehir": "Istanbul",
+  "zip": "34445",
+  "enlem": 41.048799999999999954525264911353588104248046875,
+  "boylam": 28.951699999999998880184648442082107067108154296875,
+  "saatdilimi": "Europe/Istanbul",
+  "parabirimi": "TRY",
+  "isp": "TurkTelecom",
+  "organizasyon": "Turk Telekomunikasyon A.S",
+  "as": "AS47331 TTNet A.S."
+}

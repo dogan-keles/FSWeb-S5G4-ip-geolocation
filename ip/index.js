@@ -68,7 +68,7 @@ const myIp = "88.229.104.38";
 */
 
 //kodlar buraya gelecek
-
+const cardsContainer = document.querySelector(".cards");
 const htmlCard = `	<div class="card">
 <img src={ülke bayrağı url} />
 <div class="card-info">
@@ -81,3 +81,5 @@ const htmlCard = `	<div class="card">
 	<p>ISP: {isp}</p>
 </div>
 </div>`;
+
+cardsContainer.innerHTML = htmlCard;
